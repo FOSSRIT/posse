@@ -1,4 +1,4 @@
-Teaching Open Source @ RIT -- Projects Seminar
+POSSE @ RIT
 ==============================================
 
 
@@ -9,9 +9,3 @@ Teaching Open Source @ RIT -- Projects Seminar
    lectures
    helpfulhints
    README
-   hw/fflight
-   hw/bugfix
-   program/1
-   hw/rubric
-   hw/review
-   program/2

@@ -31,8 +31,8 @@ Once you have virtualenv installed, you should be able to run::
 
  $ virtualenv --no-site-packages -p python2 sphinxenv
  $ source sphinxenv/bin/activate
- $ git clone git@github.com:YOUR_USERNAME/hfoss.git
- $ cd hfoss
+ $ git clone git@github.com:YOUR_USERNAME/posse.git
+ $ cd posse
  $ python setup.py develop
 
 On Windows
@@ -45,11 +45,11 @@ At the windows command prompt::
 
 In msysGit or git-bash::
 
- $ git clone git@github.com:YOUR_USERNAME/hfoss.git
+ $ git clone git@github.com:YOUR_USERNAME/posse.git
 
 Back in the windows command prompt::
 
- $ cd hfoss
+ $ cd posse
  $ python setup.py develop
 
 
@@ -65,7 +65,7 @@ building integrated docs.
 
 You might notice that the syllabus, et. al. is hosted on
 http://readthedocs.org/.  The `upstream github repository
-<http://github.com/ralphbean/hfoss>`_ has a hook installed
+<http://github.com/ralphbean/posse>`_ has a hook installed
 that automatically triggers a ``git pull`` at http://readthedocs.org from
 http://github.com.  Thus, every time we change the docs here, they are
 automatically re-built into HTML for us and posted online.  Awesome!
@@ -86,7 +86,7 @@ The html documentation will be generated in ``html-output/``.  Check
 
 .. note:: If your machine complains that 'sphinx-build' is a command that could
    not be found, try running "$ python setup.py develop" in the root of the
-   hfoss repository first.  That ``setup.py`` file contains
+   posse repository first.  That ``setup.py`` file contains
    information about all *other* open source projects that are *required* for
    this project, and will automatically install them from
    http://pypi.python.org/
@@ -96,7 +96,7 @@ Validating the ``data/students.yaml`` file
 
 The ``data/students.yaml`` file is a structured data file that keeps track of
 all the students in the class and metadata about them.  Using this file and the
-bindings in ``lib/hfoss/model/students.py`` we can build scripts that count
+bindings in ``lib/posse/model/students.py`` we can build scripts that count
 how many lines of code each student modifies each week, or how many
 words/blogpost, or whatever we like.
 
@@ -107,7 +107,7 @@ that tabs and spaces are distinctly different in their meaning.  It also means
 that editing such a file is easy to mess up.
 
 In order to ensure that you don't introduce any unparseable errors into the
-file, there is a script in ``lib/hfoss/model/validate.py`` that reads in the
+file, there is a script in ``lib/posse/model/validate.py`` that reads in the
 file and checks each entry.  You should run it after every time you edit
 ``data/students.yaml``.
 
@@ -116,4 +116,4 @@ virtualenv activated.
 
 In the root of the cloned source directory, run::
 
-  $ python lib/hfoss/model/validate.py
+  $ python lib/posse/model/validate.py
