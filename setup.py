@@ -6,9 +6,9 @@ import multiprocessing, logging
 from setuptools import setup
 
 setup(
-    name='hfoss',
+    name='posse',
     version='0.1',
-    description="Materials for teaching the HFOSS course at RIT",
+    description="Materials for teaching POSSE at RIT",
     install_requires=[
         'Sphinx',
         'cloud_sptheme',
@@ -17,9 +17,9 @@ setup(
         'six',  # For python3 support.
     ],
     url = "http://teachingopensource.org/index.php/RIT",
-    download_url="https://github.com/ralphbean/hfoss",
-    author='Ralph Bean',
-    author_email='ralph.bean@gmail.com',
+    download_url="https://github.com/Qalthos/posse",
+    author='Nathaniel Case',
+    author_email='Qalthos@gmail.com',
     license='GPLv3+',
     packages = [],
     namespace_packages = [],
