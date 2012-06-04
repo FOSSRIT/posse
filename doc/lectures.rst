@@ -1,188 +1,45 @@
 Notes for Class Sessions
 ========================
 
-Week 02, Day 1:  First Flight
+Day 1:  Introductions
 -----------------------------
 
- - Introductions
- - Covering the Syllabus
- - Discussing Open-Advice on Community Building
- - Discussing PyCon Videos
- - Introduction to ``git`` by ryansb from http://ryansb.com/seminars/git
+ - Greetings and Introductions, survey of participants' skill sets (Dave)
+   - What is Open Source?(Dave) What Open Source is about; intro to the Fedora project; our teaching model; learning plan for the week
+ - IP and Open Source History (Dave)
+ - Distributed Collaboration Fedora Classroom (Remy & Dave) Learning IRC and collaborative text editing alongside Fedora contributors.
+ - IRC /wiki lab/ blogs&planets Working with colleagues exclusively online
+ - Finding things out: information-hunting and question-asking strategies. Being productively lost. (Dave & Remy)
  - :doc:`hw/fflight`
 
 
-Week 02, Day 2:  Introduction to Python
+Day 2:  Getting Started
 ---------------------------------------
 
- - Lightning Talks!!!
- - More ``git`` with ryansb and http://ryansb.com/seminars/git
- - Introduction to Python (check out http://learnpythonthehardway.org/book/)
+ - Reading group: FOSS project case studies' What are the different types and characteristics of project communities out there for your students to contribute to? Give out Commarch Assignment (Dave & Remy)
+ - Version Control: Git and Github tool walkthrough (Remy)
+ - Documentation (Remy & Dave) Manpages, documentation teams, and their workflows: how to find and contribute to them
+ - Your first local commit, part 1 - picking a project and getting the code (Remy)
+ - Your first local commit, part 2 - building a local instance (Remy)
 
-   - basic operators
-   - strings
-   - formatting
-   - multiplying strings
-   - lists
-   - dicts
-   - conditionals
-   - boolean trickery, not and in
-   - any and all
-   - while loops
-   - continue
-   - break
-   - for loops
-   - functions
-   - args and kwargs
-   - whitespace
-
-Week 03, Day 1:  Intermediate Python
+Day 3:  Deep Dive
 ------------------------------------
 
- - :doc:`hw/fflight` is due.  How'd it go?
- - Other business
- - Intermediate Python
+ - Patches, pastebin, tickets, bots - and how to love your infrastructure team (Remy)
+ - DEEP DIVE with WebWorks!
 
-   - stdlib
-
-     - argparse
-     - urllib2
-     - itertools
-
-   - virtualenv
-   - setup.py
-   - sweet modules on pypi
-
-     - shelve
-     - fabulous
-     - nose
-     - sqlalchemy
-
-   - zip
-   - map
-   - filter
-   - list comprehensions (!)
-   - generators
-   - decorators
-   - classes
-   - dunder methods (reference, http://www.siafoo.net/article/57)
-   - context managers
-   - multiple inheritance
-
-Week 03, Day 2:  So-called "Advanced" Python
+Day 4:  Dealing with Open Source
 --------------------------------------------
 
- - Announcements
+ - Reading group: Handling flames and forks What do disagreements look like in open source, and how can we help our students cope with a sometimes unpredictably blunt world?
+ - Commarch Assignment (Dave)
+ - Picking pertinent problems - articulating your work in a way the community cares about (Dave & Remy)
+ - Bus/Raptor proofing - leveraging project teams to future-proof your work (Remy)
+ - Open Block. Participants can work on deep dive, Commarch Assignment, or direct discussion on an unplanned OS topic.
 
-   - The `planet <http://threebean.org/floss-planet>`_ is up.  Subscribe to it
-     with your RSS reader.
-   - Homework 2 is due on Monday.  Good to go?
-   - Special guest `Luke Macken <http://lewk.org>`_!
-
- - Lightning Talks!!!
- - Advanced Python
-
-   - context managers revisited
-
-     - https://github.com/ralphbean/pyrasite/commit/cdca3dfc4b757249d50fcc2ab6fc7de6d40dc0f5
-
-   - locals() and globals()
-   - the inspect module
-
-     - docstrings and 'help'
-     - inspect.stack
-     - inspect.getsource
-
-   - the abstract syntax tree
-
-     - desmaj's tool
-     - macchiato
-
-   - synthesizing stuff
-
-     - getattr and __getattr__, two sides of the coin
-
-   - metaclasses
-
-Week 04, Day 1:  OLPCs!!!
+Day 5:  Final Thoughts
 -------------------------
 
- - Homework 2 is due.  How did it go?
- - There is a TA for the class; Nate Case.
-   ``qalthos`` in IRC or qalthos ~@~ gmail.com
- - OLPC Distribution
-
-   - I need your DCE name.
-   - These must be returned at the end of the quarter under penalty of death.
-
- - OLPC Smoke Test
-
-   - http://wiki.laptop.org/go/Smoke_test/10.1.x/1_hour_smoke_test
-   - The one exception to the smoke test is that you need to
-     use ``connect-rit`` in the terminal activity to connect
-     to ``ritwpa2``.  Just open the terminal activity and run
-     ``./connect-rit``.  Each XO should have it.
-   - **Oh no!** the ``connect-rit`` script is busted!
-
-     - If this is the case for you, you can get a new copy of it from
-       https://github.com/Qalthos/connect-rit -- Use a USB key to transfer it
-       to the OLPC.
-
-Week 04, Day 2:  Sugar
-----------------------
-
- - Lightning Talks
- - Announcements
-
-   - Project pitches are due on Monday
-
- - Introduction to Sugar
-
-   - Reading you can do later if you want more detail:
-
-     - http://en.flossmanuals.net/make-your-own-sugar-activities
-     - http://wiki.laptop.org/go/Understanding_Sugar_code
-
-   - Sugar concepts
-
-     - Journal
-     - Different Views
-     - Sandboxing, not signing.
-
-   - You can bust out ``/usr/bin/sugar-session`` (
-     http://git.sugarlabs.org/sugar/mainline/blobs/master/bin/sugar-session or
-     http://gist.github.com/2297065 for a syntax-highlighted version)
-
-     - ``ps -ef | grep sugar``
-     - ``sudo yum -y install vim``
-     - ``vim /usr/bin/sugar-session`` and you'll see:
-
-       - A lot of ``from sugar import env, logger``
-       - And some ``from jarabe import model, view, keyhandler``
-
-   - Check out http://git.sugarlabs.org for the big `tamale`.
-
-   - What is an activity?
-
-     - A MANIFEST file.
-     - ``activity.info`` with metadata
-     - A .svg icon
-     - Translation files
-     - The source code (you'll need a class that extends ``Activity``)
-
-   - For an example, let's take a look at Fortune Hunter,
-     http://git.sugarlabs.org/project-xavier/mainline/trees/master/MAFH.activity
-
-   - What modules to use when writing your code?  You can use either of the
-     following.  They will both be installed on whatever XO your activity
-     makes its way to.
-
-     - PyGTK - http://www.pygtk.org/tutorial.html
-     - pygame - http://www.pygame.org/wiki/tutorials
-
-
-Week 05, Day 1:  Projects
--------------------------
-
- - Lightning Talks
- - Introduction to Sugar
+ - Participant Questions about General Open Source Topics How would you like to participate in Open Source?
+ - Commarch Project presentations
+ - Curriculum workshopping (Dave & Remy)
