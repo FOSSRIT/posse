@@ -35,3 +35,7 @@
     - http://github.com/Qalthos
   irc: Qalthos
   name: Nathaniel Case
+
+- blog: http://AllCloud.wordpress.com
+  feed: http://AllCloud.wordpress.com/feeds/
+  name: Mark Wambach
