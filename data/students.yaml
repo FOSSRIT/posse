@@ -35,3 +35,12 @@
     - http://github.com/Qalthos
   irc: Qalthos
   name: Nathaniel Case
+  
+
+- blog: http://blog.linkybook.com   # Need to look up this info later
+  feed: http://blog.linkybook.com/feeds/posts/default
+  forges:
+    - http://github.com/Qalthos
+  irc: kb
+  name: Karen Beiter
+  
