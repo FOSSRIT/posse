@@ -35,3 +35,11 @@
     - http://github.com/Qalthos
   irc: Qalthos
   name: Nathaniel Case
+
+- blog: http://chronicgadgetosis.wordpress.org
+  feed: http://chronicgadgetosis.wordpress.com/feed/
+  forges:
+    - http://github.com/afreshvegetable
+
+  irc: ProfSheinRIT
+  name: David Shein
