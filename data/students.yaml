@@ -49,3 +49,7 @@
     - http://github.com/afreshvegetable
   irc: ProfSheinRIT
   name: David Shein
+
+- blog: http://AllCloud.wordpress.com
+  feed: http://AllCloud.wordpress.com/feeds/
+  name: Mark Wambach
