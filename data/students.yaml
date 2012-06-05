@@ -86,3 +86,10 @@
     - http://github.com/openwebwork
   irc: mgage
   name: Michael Gage
+
+- blog: http://cvandfoss.tumblr.com
+  feed: http://cvandfoss.tumblr.com/rss
+  forges:
+    - http://github.com/renardchien
+  irc: posse_cody_2012
+  name: Cody Van De Mark
