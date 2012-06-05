@@ -72,3 +72,9 @@
   irc: thedavekelly
   name: David Kelly
 
+- blog: http://jasonaubrey.blogspot.com/
+  feed: http://jasonaubrey.blogspot.com/feeds/posts/default
+  forges:
+    - http://github.com/aubreyja
+  irc: aubreyja
+  name: Jason Aubrey
