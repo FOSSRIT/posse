@@ -6,6 +6,7 @@ Day 1:  Introductions
 
  - `Introduce yourself to TOS <http://teachingopensource.org/index.php/RIT/Wiki_introduction>`_
  - `Take the survey <https://clipboard.rit.edu/take.cfm?sid=76B5A38F>`_
+ - `Registering an IRC nickname <labs/irc>`_
 
  - Greetings and Introductions, survey of participants' skill sets (Dave)
    - What is Open Source?(Dave) What Open Source is about; intro to the Fedora project; our teaching model; learning plan for the week
