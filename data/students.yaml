@@ -93,3 +93,11 @@
     - http://github.com/renardchien
   irc: posse_cody_2012
   name: Cody Van De Mark
+
+- blog: http://karensthoughts99999.wordpress.com   # Need to look up this info later
+  feed: http://karensthoughts99999.wordpress.com/category/posse/
+  forges:
+    - http://github.com/kjbndp
+  irc: kb
+  name: Karen Beiter
+  
