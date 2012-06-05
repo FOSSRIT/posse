@@ -25,8 +25,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Teaching Open Source @ RIT, Projects Seminar'
-copyright = u'2011, Ralph Bean, Rochester Institute of Technology'
+project = u'POSSE @ RIT'
+copyright = u'2012, Nathaniel Case, Rochester Institute of Technology'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -145,7 +145,7 @@ html_static_path = ['.static']
 #html_file_suffix = ''
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'HFOSS'
+htmlhelp_basename = 'POSSE'
 
 
 # Options for LaTeX output
@@ -160,8 +160,8 @@ htmlhelp_basename = 'HFOSS'
 # Grouping the document tree into LaTeX files. List of tuples
 # (source start file, target name, title, author, document class [howto/manual]).
 latex_documents = [
-  ('index', 'rc.tex', ur'Teaching Open Source',
-   ur'Ralph Bean', 'manual'),
+  ('index', 'rc.tex', ur'POSSE',
+   ur'Nathaniel Case', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
