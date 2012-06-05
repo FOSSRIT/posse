@@ -29,6 +29,27 @@ Schedule
 |5  | More Other Stuff           |
 +---+----------------------------+
 
+Helpful Links
+-------------
+
+`Community-editable notes <http://etherpad.osuosl.org/lcJSXfjBuF>`_
+
+`Full Schedule <https://docs.google.com/document/d/1Dp0s_sh2Ba-UNVf7vRLCLO10MXmP1rvhEBWiXj8FWbE/edit>`_
+
+`IRC Commands <http://en.wikipedia.org/wiki/IRC_commands>`_
+
+`Introduce yourself to TOS <http://teachingopensource.org/index.php/RIT/Wiki_introduction>`_
+
+`Take the Survey <https://clipboard.rit.edu/take.cfm?sid=76B5A38F>`_
+
+`MakerBot <http://www.makerbot.com/>`_
+
+`WeBWorK Schedule <https://docs.google.com/document/d/16DYhLvzmbe4sfDgtWgUhapuU6i29vdgAF31SmeqRUf4/edit?pli=1>`_
+
+`The Cathedral and the Bazaar <http://www.catb.org/esr/writings/homesteading/cathedral-bazaar/>`_
+
+`How To Ask Questions The Smart Way <http://www.catb.org/~esr/faqs/smart-questions.html>`_
+
 ----
 
 *Blog updates* -- students are required to keep a blog to which they post updates
