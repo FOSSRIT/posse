@@ -35,3 +35,11 @@
     - http://github.com/Qalthos
   irc: Qalthos
   name: Nathaniel Case
+  
+- blog: http://michaelgage.blogspot.com/
+  feed: http://blog.linkybook.com/feeds/posts/default
+  forges:
+    - http://github.com/mgage
+    - http://github.com/openwebwork
+  irc: mgage
+  name: Michael Gage
