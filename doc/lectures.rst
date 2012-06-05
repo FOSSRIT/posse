@@ -4,7 +4,7 @@ Notes for Class Sessions
 Day 1:  Introductions
 -----------------------------
 
- - `Introduce yourself to TOS <http://teachingopensource.org/index.php/RIT/Wiki_introduction>`_
+ - `Introductions to Open SOurce <http://teachingopensource.org/index.php/RIT/Wiki_introduction>`_
  - `Take the survey <https://clipboard.rit.edu/take.cfm?sid=76B5A38F>`_
  - `Registering an IRC nickname <labs/irc>`_
 
