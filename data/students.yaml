@@ -35,3 +35,11 @@
     - http://github.com/Qalthos
   irc: Qalthos
   name: Nathaniel Case
+ 
+- blog: http://thedavekelly.tumblr.com
+  feed: http://thedavekelly.tumblr.com/rss
+  forges:
+    - http://github.com/dmkelly
+  irc: thedavekelly
+  name: David Kelly
+
