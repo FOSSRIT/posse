@@ -35,3 +35,11 @@
     - http://github.com/Qalthos
   irc: Qalthos
   name: Nathaniel Case
+
+- blog: http://benk11.blogspot.com
+  feed: http://benk11.blogspot.com/feeds/posts/default
+  forges:
+    - http://github.com/bksteele57
+  irc: benk11
+  name: Ben Steele
+
