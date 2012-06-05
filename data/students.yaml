@@ -43,6 +43,10 @@
   irc: decause
   name: Remy Decausemaker
 
+- blog: http://www.sesamestreet.org
+  irc: big_bird
+  name: Big Bird
+
 - blog: http://chronicgadgetosis.wordpress.org
   feed: http://chronicgadgetosis.wordpress.com/feed/
   forges:
@@ -53,3 +57,4 @@
 - blog: http://AllCloud.wordpress.com
   feed: http://AllCloud.wordpress.com/feeds/
   name: Mark Wambach
+
