@@ -28,89 +28,10 @@
     - http://bitbucket.org/ralphbean
   irc: threebean
   name: Ralph Bean
-  rit_dce: rjbpop
-  team:
-    - awesome
 
-- blog: http://blog.helixoide.com/
-  feed: http://blog.helixoide.com/rss
+- blog: http://blog.linkybook.com
+  feed: http://blog.linkybook.com/feeds/posts/default
   forges:
-    - http://github.com/rossdylan
-    - http://bitbucket.org/rdelinger
-  irc: rossdylan
-  name: Ross Delinger
-  rit_dce: rad4899
-  team:
-    - irc
-
-- blog: http://oddshocks.com/blog
-  feed: http://oddshocks.com/blog/feed
-  forges:
-    - http://github.com/oddshocks
-  irc: oddshocks
-  name: David Gay
-  rit_dce: dtg5645
-  team:
-    - irc
-    - cave
-    - arthur
-
-- blog: http://ryansb.com/
-  feed: http://ryansb.com/atom.xml
-  forges:
-    - http://github.com/ryansb
-  irc: ryansb
-  name: Ryan Brown
-  rit_dce: rsb6994
-  team:
-    - irc
-
-- blog: http://slackwill.com/
-  feed: http://slackwill.com/atom.xml
-  forges:
-    - http://github.com/WillDignazio
-  irc: slackwill
-  name: Will Dignazio
-  rit_dce: wmd4589
-  team:
-    - irc
-
-- blog: http://tmillervideo.blogspot.com/
-  feed: http://tmillervideo.blogspot.com/feeds/posts/default?alt=rss
-  forges:
-    - https://github.com/tj-miller
-  irc: tj-miller
-  name: Travis Miller
-  rit_dce: tjm1421
-  team:
-    - cave
-
-- blog: http://nedblakley.wordpress.com/
-  feed: http://nedblakley.wordpress.com/feed/
-  forges:
-    - https://github.com/nmb7895
-  irc: ned_ballad
-  name: Ned Blakley
-  rit_dce: nmb7895
-  team:
-    - arthur
-
-- blog: http://andrewmandula.wordpress.com
-  feed: http://andrewmandula.wordpress.com/feed
-  forges:
-    - http://github.com/ajman1101
-  irc: ajman
-  name: Andrew Mandula
-  rit_dce: ajm7770
-  team:
-    - arthur
-
-- blog: http://insanefossone.tumblr.com/
-  feed: http://insanefossone.tumblr.com/rss
-  forges:
-    - https://github.com/insanefastone
-  irc: insanefastone
-  name: Jennifer Dziuba
-  rit_dce: jld7283
-  team:
-    - cave
+    - http://github.com/Qalthos
+  irc: Qalthos
+  name: Nathaniel Case
