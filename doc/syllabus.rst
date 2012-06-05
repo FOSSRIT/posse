@@ -33,18 +33,9 @@ Schedule
 
 *Blog updates* -- students are required to keep a blog to which they post updates
 about their investigations, progress, success, and pitfalls.  This blog can be
-hosted anywhere, but must be added to the course `planet
-<http://threebean.org/floss-planet/>`_ (there are instructions on how to do this
+hosted anywhere, but should be added to the TOS `planet
+<http://planet.teachingopensource.org/>`_ (there are instructions on how to do this
 in :doc:`hw/fflight`).
-
- - You must make at least one blog post per week to receive full credit.
- - You must participate regularly in the course's IRC channel: asking and
-   answering questions.
- - You must participate in the course's mailman list,
-   `floss-seminar@lists.rit.edu
-   <https://lists.rit.edu/mailman/listinfo.cgi/floss-seminar>`_.
- - Contributions to the course curriculum, syllabus, and rubric are factored in
-   here as well.
 
 Blogging is good for you and good for the `FLOSS community at large
 <http://xkcd.com/979/>`_.
