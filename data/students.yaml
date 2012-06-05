@@ -64,3 +64,11 @@
     - http://github.com/bksteele57
   irc: benk11
   name: Ben Steele
+ 
+- blog: http://thedavekelly.tumblr.com
+  feed: http://thedavekelly.tumblr.com/rss
+  forges:
+    - http://github.com/dmkelly
+  irc: thedavekelly
+  name: David Kelly
+

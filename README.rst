@@ -23,7 +23,7 @@ If you don't have virtualenv installed yet, try::
 
  $ sudo easy_install virtualenv virtualenvwrapper
 
-If you're using a distro like Fedora or Ubuntu, you should try this isntead::
+If you're using a distro like Fedora or Ubuntu, you should try this instead::
 
  $ sudo yum install python-virtualenv
 
