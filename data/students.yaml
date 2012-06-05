@@ -78,3 +78,11 @@
     - http://github.com/aubreyja
   irc: aubreyja
   name: Jason Aubrey
+  
+- blog: http://michaelgage.blogspot.com/
+  feed: http://blog.linkybook.com/feeds/posts/default
+  forges:
+    - http://github.com/mgage
+    - http://github.com/openwebwork
+  irc: mgage
+  name: Michael Gage
