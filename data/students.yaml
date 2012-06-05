@@ -35,3 +35,10 @@
     - http://github.com/Qalthos
   irc: Qalthos
   name: Nathaniel Case
+
+- blog: http://remy-is-awesome.com/blog
+  feed: http://remy-is-awesome.com/blog/feed
+  forges:
+    - http://github.com/decause
+  irc: decause
+  name: Remy Decausemaker
