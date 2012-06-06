@@ -100,4 +100,13 @@
     - http://github.com/kjbndp
   irc: kb
   name: Karen Beiter
+
+
+- blog: http://amitorit.tumblr.com/
+  feed: http://amitorit.tumblr.com/
+  forges:
+    - http://github.com/amitorit
+  irc: amitorit
+  name: Amit Ray
+
   
