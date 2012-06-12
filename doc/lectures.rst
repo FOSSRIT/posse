@@ -2,22 +2,12 @@ Notes for Class Sessions
 ========================
 
 Day 1:  Introductions
------------------------------
+---------------------
 
- - `Introductions to Open SOurce <http://teachingopensource.org/index.php/RIT/Wiki_introduction>`_
- - `Take the survey <https://clipboard.rit.edu/take.cfm?sid=76B5A38F>`_
- - `Registering an IRC nickname <labs/irc>`_
-
- - Greetings and Introductions, survey of participants' skill sets (Dave)
-   - What is Open Source?(Dave) What Open Source is about; intro to the Fedora project; our teaching model; learning plan for the week
- - IP and Open Source History (Dave)
- - Distributed Collaboration Fedora Classroom (Remy & Dave) Learning IRC and collaborative text editing alongside Fedora contributors.
- - IRC /wiki lab/ blogs&planets Working with colleagues exclusively online
- - Finding things out: information-hunting and question-asking strategies. Being productively lost. (Dave & Remy)
 
 
 Day 2:  Getting Started
----------------------------------------
+-----------------------
 
  - `Git Cheat Sheet <http://byte.kde.org/~zrusin/git/git-cheat-sheet-medium.png>`_
 
