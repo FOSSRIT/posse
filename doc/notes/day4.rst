@@ -11,34 +11,63 @@ What do disagreements look like in open source, and how can we help our students
 
 Flames
 ******
-everyone has used mail lists yes?
-      Everyone in open source has to have a thick skin
-      Imagine you hve an open source project that is your baby
-      how would you respond to the same questions over and over again, year after year?
-      Folks entering open source project asking questions that are readily answerable with publicly posted information are subject to flames.
-      Elitest mindset is common to many major projects
-      Not a good or bad thing, just to be expected.
-      New contributors have to "Do his/her homework"
-      There is a movement in OS to make 
-      Don't FEED THE TROLLS
-    i.e. ignore flames
-    people in the community know who the trolls are
-    if you are moving in a direction and there are no objects in your way then you are not moving
-    haters therefore are often an indication of success, or can be
-    Do not respond to trolls publicly.
-    if you have operating privileges in IRC, you can ban or kick them from the channel.
-    if you want it to be or seem more equitable, you can set up the comm  channel so that people are only given voice through a formal request.  This can pre-empt "Trollish" tactics.
-    IRC has a couple of ways of dealing with the problem child
-    On a mailing list it is a little harder to do.
-    Make sure it is subscriber only.  This elminates spammers.  Filter folks on the way in
-    If a flame war starts, be honest, be yourself, if it is a problem of elitism, "everyone is learning"
-    Hackers will often tell folks "you're doing it wrong"  
-    Turn the other cheek.  Open environment, we are all learning.  Blocking and kicking can be used as a last resort
-    Not that common in a student or classroom environment.  Even with a decently sized open source project.  OS project selection bias tends to elminate trollish folks.
-    Large programs may have some.  Tired crusty greybeards.
-   https://plus.google.com/102150693225130002912/posts/UkoAaLDpF4i
-   
-   Flames can be playful and fun.  The computer science house at RIT has a separate mailing list just for flames so that flaming does not interfere with the workflow and is segregated into an "appropriate" context.
+Everyone has used mail lists yes?
+
+Everyone in open source has to have a thick skin
+
+Imagine you have an open source project that is your baby
+
+how would you respond to the same questions over and over again, year
+after year?
+
+Folks entering open source project asking questions that are readily
+answerable with publicly posted information are subject to flames.
+
+Elitist mindset is common to many major projects
+
+Not saying this is a good or bad thing, just something to be expected.
+
+New contributors have to "Do his/her homework"
+
+Perhaps you've heard the advice "DON'T FEED THE TROLLS"?
+    i.e. ignore flames or Do not respond to trolls publicly.
+
+People in the community usually know who the trolls are.
+
+If you are moving in a direction and there are no objects in your way then you
+are not actually moving. Haters, therefore, are one type of indication of
+success (of sorts).
+
+If you have operator privileges in IRC, you can ban or kick them from the
+channel.
+
+If you want it to be or seem more equitable, you can set up the com channel so
+that people are only given voice through a formal request. This can pre-empt
+"Trollish" tactics.
+
+IRC has a couple of ways of dealing with the problem child. On a mailing list
+it is a little harder to do. Make sure it is subscriber only for posting. This
+eliminates (most) spammers. Try to filter folks on the way in. 
+
+If a flame war starts, be honest, be yourself, if it is a problem of elitism,
+"everyone is learning" is usually the right stance to take.
+
+Hackers will often tell folks "you're doing it wrong"
+    Don't take it personally, just say "Thank you, this is an open environment,
+    we are all learning." This is a much better response than Blocking and
+    kicking, which should only be used as a last resort.
+
+    These issues are not that common in a student or classroom environment.
+    Even with a decently sized open source project. FOSS project selection bias
+    tends to eliminate trollish folks.
+
+Large programs or projects may have some Tired crusty greybeards :)
+https://plus.google.com/102150693225130002912/posts/UkoAaLDpF4i
+
+Flames can be playful and fun. The Computer Science House at RIT
+(http://csh.rit.edu) has a separate mailing list just for flames so that
+flaming does not interfere with the normal conversation, and is segregated into
+an "appropriate" context.
 
 Forks
 *****
