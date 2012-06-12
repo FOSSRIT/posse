@@ -6,6 +6,12 @@ Suggested Readings
  - `Git Cheat Sheet <http://byte.kde.org/~zrusin/git/git-cheat-sheet-medium.png>`_
  - `Git Book <http://git-scm.com/book>`_
  - `Github <http://github.com>`_
+ - Examples of documentation
+
+   - `<http://sphinx.pocoo.org/>`_
+   - `<http://www.zotero.org/>`_
+   - `<http://readthedocs.org/docs/sqlalchemy-stage/en/latest/>`_
+ - `Commarch Assignment <https://docs.google.com/document/d/1ql5v3B3TXmp8blUXFEhjPWl6-3hCT_D2n-AfNEvXAjA/edit>`_
 
 Outline of Discussions
 ----------------------
@@ -53,3 +59,9 @@ Documentation
 Manpages, documentation teams, and their workflows: how to find and contribute to them
 
 After we'll jump into documentation, the need for it, the form of it, and it's importance in the context of FOSS development.
+
+Essential Documentation Elements of Small Open Source Projects
+ - Design Documents
+ - Git log
+ - Write Wiki's
+ - Blog
