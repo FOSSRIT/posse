@@ -3,8 +3,8 @@ Day 1: Introduction to Open Source
 
 Suggested Readings
 ------------------
- - `Introductions to Open Source <http://teachingopensource.org/index.php/RIT/Wiki_introduction>`_
- - :doc:`Registering an IRC nickname <../labs/irc>`
+ - `Teaching Open Source's Introductions to wikis and IRC <http://teachingopensource.org/index.php/RIT/Wiki_introduction>`_
+ - :doc:`../labs/irc`
 
 Outline of Discussions
 ----------------------
@@ -36,6 +36,17 @@ Working with colleagues exclusively online
 Distributed Collaboration Fedora Classroom. Learning IRC and collaborative text editing alongside Fedora contributors.
 
 After lunch, we'll be going over communication tools (IRC, Mailing Lists, etc...) and go into distributed collaboration and open source process. We'll talk about other tools as well, wikilab, basic communication tools, blogs, planets, and others. These are basic elements of FOSS collaboration and communication.
+
+POSSE Blog Posts
+ - Create a blog or use pre-existing blog
+ - Get URL for RSS feed
+ - Log into teachingopensource.org
+ - Go to teachingopensource.org/index.php/planet_feed_list
+ - Edit "FEEDS" section
+
+   - add your RSS feed URL
+   - add your name
+   - click "save page"
 
 Finding things out
 ``````````````````
