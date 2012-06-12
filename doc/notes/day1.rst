@@ -12,6 +12,8 @@ Outline of Discussions
 
 .. note:: Lib arts components today/tomorrow, transition to tech matters later in week.
 
+Introductions
+`````````````
 Greetings and Introductions, survey of participants' skill sets
 
 What is Open Source?

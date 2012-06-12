@@ -15,19 +15,11 @@ This should also have things in it.
 Schedule
 --------
 
-+---+----------------------------+
-|Day|Topic                       |
-+---+----------------------------+
-|1  | Introductions              |
-+---+----------------------------+
-|2  | Intro to Open Source       |
-+---+----------------------------+
-|3  | Deep Dive                  |
-+---+----------------------------+
-|4  | Other Stuff                |
-+---+----------------------------+
-|5  | More Other Stuff           |
-+---+----------------------------+
+ - :doc:`notes/day1`
+ - :doc:`notes/day2`
+ - :doc:`notes/day3`
+ - :doc:`notes/day4`
+ - :doc:`notes/day5`
 
 Helpful Links
 -------------
