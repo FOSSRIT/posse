@@ -9,6 +9,10 @@ IRC: #teachingopensource on irc.freenode.net
    :maxdepth: 2
 
    syllabus
-   lectures
+   notes/day1
+   notes/day2
+   notes/day3
+   notes/day4
+   notes/day5
    helpfulhints
    README
