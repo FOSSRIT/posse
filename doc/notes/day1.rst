@@ -27,11 +27,13 @@ IP and Open Source History
 ``````````````````````````
 Then we jump into History of IP
 
+Stallman started copyleft notion of software copyright. MIT media Lab.
+
 Working with colleagues exclusively online
 ``````````````````````````````````````````
  - IRC/wiki lab/blogs&planets
 
-Distributed Collaboration Fedora Classroom (Remy & Dave) Learning IRC and collaborative text editing alongside Fedora contributors.
+Distributed Collaboration Fedora Classroom. Learning IRC and collaborative text editing alongside Fedora contributors.
 
 After lunch, we'll be going over communication tools (IRC, Mailing Lists, etc...) and go into distributed collaboration and open source process. We'll talk about other tools as well, wikilab, basic communication tools, blogs, planets, and others. These are basic elements of FOSS collaboration and communication.
 

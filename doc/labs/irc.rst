@@ -1,9 +1,25 @@
 Getting set up on IRC
 =====================
+IRC: `http://www.irchelp.org/irchelp/networks/`
+
+What is IRC?
+How does it work?
+Use a client, or a web client:
+ - ex `http://webchat.freenode.net`
+
+Useful IRC Commands
+-------------------
+ - /connect -ssl irc.freenode.net
+ - /join #name-of-channel
+ - /help - show commands
+ - /names - Who is in channel
+ - /query - Private Message a Nick
+ - /wc - close the window
+ - /window move # - move a chat window to a particular number
+ - /whois - show information about a particular Nick
 
 Register your nickanme on freenode
 ----------------------------------
-
  - `Overview of registering a nickname on freenode.net <http://freenode.net/faq.shtml#nicksetup>`_
 
  It is useful to register a nickname with the IRC server you are using, first so that you can always have your nickname when you log on (other users will be kicked if they try to use your nickname) and so that others can be sure that they are talking to the same person each time.
@@ -29,3 +45,9 @@ Register your nickanme on freenode
  - /msg NickServ group
 
  Note that this time you specify the nicname you registered with NickServ, as it is now different than your current nickname.
+
+About IRC Cloaks
+----------------
+`http://meta.wikimedia.org/wiki/IRC/Cloaks`
+
+`http://fedoraproject.org/wiki/FreenodeCloaks`
