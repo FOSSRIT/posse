@@ -15,4 +15,5 @@ IRC: #teachingopensource on irc.freenode.net
    notes/day4
    notes/day5
    helpfulhints
-   README
+   labs/irc
+   labs/git
