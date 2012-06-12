@@ -4,6 +4,8 @@ Day 2: Collaboration
 Suggested Readings
 ------------------
  - `Git Cheat Sheet <http://byte.kde.org/~zrusin/git/git-cheat-sheet-medium.png>`_
+ - `Git Book <http://git-scm.com/book>`_
+ - `Github <http://github.com>`_
 
 Outline of Discussions
 ----------------------
@@ -17,6 +19,26 @@ Reading group: FOSS project case studies' What are the different types and chara
 Git and Github
 ``````````````
 After that, we'll jump into version control with Git and Github.
+
+Git Basic Commands
+``````````````````
+Refer to cheatsheet above for more.
+
++---------------------------------+--------------+
+|Initialize a git repo            |git init      |
++---------------------------------+--------------+
+|Show current status of repo      |git status    |
++---------------------------------+--------------+
+|Add file(s) to local repo        |git add <file>|
++---------------------------------+--------------+
+|Commit added files to local repo |git commit    |
++---------------------------------+--------------+
+|Show log of history              |git log       |
++---------------------------------+--------------+
+|Show log by patches              |git log -p    |
++---------------------------------+--------------+
+|Add files by patches             |git add -p    |
++---------------------------------+--------------+
 
 Making Your First Commit
 ````````````````````````
