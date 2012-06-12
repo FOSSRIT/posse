@@ -15,6 +15,3 @@ Day 4:  Dealing with Open Source
 
 Day 5:  Open Source in the Classroom
 ------------------------------------
- - Participant Questions about General Open Source Topics How would you like to participate in Open Source?
- - Commarch Project presentations
- - Curriculum workshopping (Dave & Remy)
